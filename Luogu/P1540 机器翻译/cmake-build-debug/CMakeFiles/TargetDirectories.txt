@@ -1,0 +1,3 @@
+D:/Code/OJ/Luogu/P1540 [NOIP2010 提高组] 机器翻译/cmake-build-debug/CMakeFiles/P1540.dir
+D:/Code/OJ/Luogu/P1540 [NOIP2010 提高组] 机器翻译/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/OJ/Luogu/P1540 [NOIP2010 提高组] 机器翻译/cmake-build-debug/CMakeFiles/rebuild_cache.dir

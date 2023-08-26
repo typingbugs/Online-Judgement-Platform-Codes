@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Educational_Codeforces_Round__153__Rated_for_Div__2_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B">
+				<Option output="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 B"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B/fast">
+				<Option output="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/B.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 B/fast"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C">
+				<Option output="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 C"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C/fast">
+				<Option output="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/C.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 C/fast"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D">
+				<Option output="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 D"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="D/fast">
+				<Option output="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/D.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 D/fast"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/mingw/bin/mingw32-make.exe -f &quot;F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/B_Fancy_Coins.cpp">
+			<Option target="B"/>
+		</Unit>
+		<Unit filename="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/C_Game_on_Permutation.cpp">
+			<Option target="C"/>
+		</Unit>
+		<Unit filename="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/D_Balanced_String.cpp">
+			<Option target="D"/>
+		</Unit>
+		<Unit filename="F:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P3366_",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P3366_Kruskal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3366_Kruskal-Debug-4fc4a135ed7541306ceb.json",
+					"name" : "P3366_Kruskal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P3366_Prim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3366_Prim-Debug-a2759962eb5a31acab75.json",
+					"name" : "P3366_Prim",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/OJ/Luogu/P3366 \u3010\u6a21\u677f\u3011\u6700\u5c0f\u751f\u6210\u6811/cmake-build-debug",
+		"source" : "D:/Code/OJ/Luogu/P3366 \u3010\u6a21\u677f\u3011\u6700\u5c0f\u751f\u6210\u6811"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1540__NOIP2010___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P4715::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P4715-Debug-b3ad7bf9fae76112a3a6.json",
+					"name" : "P4715",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/OJ/Luogu/P4715 \u3010\u6df1\u57fa16.\u4f8b1\u3011\u6dd8\u6c70\u8d5b/cmake-build-debug",
+		"source" : "D:/Code/OJ/Luogu/P4715 \u3010\u6df1\u57fa16.\u4f8b1\u3011\u6dd8\u6c70\u8d5b"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

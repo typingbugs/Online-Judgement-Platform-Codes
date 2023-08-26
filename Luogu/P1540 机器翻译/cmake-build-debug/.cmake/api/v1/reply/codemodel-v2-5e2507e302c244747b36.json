@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1540__NOIP2010___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1540::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1540-Debug-b067475b91eeb01d5381.json",
+					"name" : "P1540",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Code/OJ/Luogu/P1540 [NOIP2010 \u63d0\u9ad8\u7ec4] \u673a\u5668\u7ffb\u8bd1/cmake-build-debug",
+		"source" : "D:/Code/OJ/Luogu/P1540 [NOIP2010 \u63d0\u9ad8\u7ec4] \u673a\u5668\u7ffb\u8bd1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

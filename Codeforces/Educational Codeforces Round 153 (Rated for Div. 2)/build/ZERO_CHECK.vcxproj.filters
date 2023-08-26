@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\Code\OJ\Codeforces\Educational Codeforces Round 153 (Rated for Div. 2)\build\CMakeFiles\f6235ffdc7fe39fbb15b05c2138dc9ef\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EB962907-CE8B-3AFB-9E4D-CE32668BB1A1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

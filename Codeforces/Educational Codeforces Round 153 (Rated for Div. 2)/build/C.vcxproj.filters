@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\Code\OJ\Codeforces\Educational Codeforces Round 153 (Rated for Div. 2)\D - Balanced String.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\Code\OJ\Codeforces\Educational Codeforces Round 153 (Rated for Div. 2)\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{40A370B6-79D7-3AF8-B66D-784C2AB85EA1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

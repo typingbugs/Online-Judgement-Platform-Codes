@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "\u5317\u4eac\u4ea4\u901a\u5927\u5b66 \u7b2c\u4e5d\u5c4a\u65b0\u751f\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "C::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C-Debug-d680b22d6ed6d2f85da0.json",
+					"name" : "C",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E-Debug-9519181b005d323000b2.json",
+					"name" : "E",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Code/Online Judgement Platform Codes/School OJ/\u5317\u4eac\u4ea4\u901a\u5927\u5b66 \u7b2c\u4e5d\u5c4a\u65b0\u751f\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b/cmake-build-debug",
+		"source" : "F:/Code/Online Judgement Platform Codes/School OJ/\u5317\u4eac\u4ea4\u901a\u5927\u5b66 \u7b2c\u4e5d\u5c4a\u65b0\u751f\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
