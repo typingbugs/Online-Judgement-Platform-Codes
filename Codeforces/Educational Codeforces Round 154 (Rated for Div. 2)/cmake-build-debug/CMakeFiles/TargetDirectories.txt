@@ -1,0 +1,5 @@
+G:/Code/Online-Judgement-Platform-Codes/Codeforces/Educational Codeforces Round 154 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/A.dir
+G:/Code/Online-Judgement-Platform-Codes/Codeforces/Educational Codeforces Round 154 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/B.dir
+G:/Code/Online-Judgement-Platform-Codes/Codeforces/Educational Codeforces Round 154 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/C.dir
+G:/Code/Online-Judgement-Platform-Codes/Codeforces/Educational Codeforces Round 154 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Code/Online-Judgement-Platform-Codes/Codeforces/Educational Codeforces Round 154 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
