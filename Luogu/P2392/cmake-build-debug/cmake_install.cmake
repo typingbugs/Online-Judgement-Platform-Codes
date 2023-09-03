@@ -1,8 +1,8 @@
-# Install script for directory: E:/Code/Online-Judgement-Platform-Codes/Codeforces/Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)
+# Install script for directory: E:/Code/Online-Judgement-Platform-Codes/Luogu/P2392
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Harbour_Space_Scholarship_Contest_2023_2024__Div__1___Div__2_")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/P2392")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Code/Online-Judgement-Platform-Codes/Codeforces/Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Code/Online-Judgement-Platform-Codes/Luogu/P2392/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

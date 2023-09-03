@@ -17,7 +17,7 @@
 rule CXX_COMPILER__A_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -25,7 +25,7 @@ rule CXX_COMPILER__A_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__A_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -36,7 +36,7 @@ rule CXX_EXECUTABLE_LINKER__A_Debug
 rule CXX_COMPILER__B_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -44,7 +44,7 @@ rule CXX_COMPILER__B_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__B_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -55,7 +55,7 @@ rule CXX_EXECUTABLE_LINKER__B_Debug
 rule CXX_COMPILER__C_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
-  command = D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  command = D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\g++.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
   description = Building CXX object $out
 
 
@@ -63,7 +63,7 @@ rule CXX_COMPILER__C_unscanned_Debug
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__C_Debug
-  command = cmd.exe /C "$PRE_LINK && D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\g++.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -80,7 +80,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S"E:\Code\Online-Judgement-Platform-Codes\Codeforces\Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)" -B"E:\Code\Online-Judgement-Platform-Codes\Codeforces\Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)\cmake-build-debug"
+  command = D:\DevelopTools\JetBrainsToolbox\CLion\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -S"E:\Code\Online-Judgement-Platform-Codes\Codeforces\Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)" -B"E:\Code\Online-Judgement-Platform-Codes\Codeforces\Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2)\cmake-build-debug"
   description = Re-running CMake...
   generator = 1
 
@@ -89,7 +89,7 @@ rule RERUN_CMAKE
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\ninja\win\x64\ninja.exe $FILE_ARG -t clean $TARGETS
+  command = D:\DevelopTools\JetBrainsToolbox\CLion\bin\ninja\win\x64\ninja.exe $FILE_ARG -t clean $TARGETS
   description = Cleaning all built files...
 
 
@@ -97,6 +97,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\ninja\win\x64\ninja.exe -t targets
+  command = D:\DevelopTools\JetBrainsToolbox\CLion\bin\ninja\win\x64\ninja.exe -t targets
   description = All primary targets available:
 
