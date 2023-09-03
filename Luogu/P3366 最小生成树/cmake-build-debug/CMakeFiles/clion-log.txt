@@ -1,4 +1,0 @@
-D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\222.4345.21\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/222.4345.21/bin/ninja/win/ninja.exe -G Ninja -S "D:\Code\OJ\Luogu\P3366 【模板】最小生成树" -B "D:\Code\OJ\Luogu\P3366 【模板】最小生成树\cmake-build-debug"
--- Configuring done
--- Generating done
--- Build files have been written to: D:/Code/OJ/Luogu/P3366 【模板】最小生成树/cmake-build-debug
