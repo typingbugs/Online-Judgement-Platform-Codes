@@ -1,4 +1,4 @@
-# Install script for directory: E:/Code/Online-Judgement-Platform-Codes/Luogu/P2392
+# Install script for directory: F:/Code/Online-Judgement-Platform-Codes/Luogu/P2392
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Code/Online-Judgement-Platform-Codes/Luogu/P2392/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/Code/Online-Judgement-Platform-Codes/Luogu/P2392/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

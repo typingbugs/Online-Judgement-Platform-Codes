@@ -3,5 +3,5 @@ project(P3366)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(P3366_Prim P3366_Prim.cpp)
-add_executable(P3366_Kruskal P3366_Kruskal.cpp)
+add_executable(P3366 P3366.cpp)
+add_executable(P3366_2 P3366_2.cpp)

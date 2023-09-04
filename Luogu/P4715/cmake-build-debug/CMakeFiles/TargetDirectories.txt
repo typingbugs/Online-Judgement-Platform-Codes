@@ -1,3 +1,0 @@
-D:/Code/OJ/Luogu/P4715 【深基16.例1】淘汰赛/cmake-build-debug/CMakeFiles/P4715.dir
-D:/Code/OJ/Luogu/P4715 【深基16.例1】淘汰赛/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Code/OJ/Luogu/P4715 【深基16.例1】淘汰赛/cmake-build-debug/CMakeFiles/rebuild_cache.dir
