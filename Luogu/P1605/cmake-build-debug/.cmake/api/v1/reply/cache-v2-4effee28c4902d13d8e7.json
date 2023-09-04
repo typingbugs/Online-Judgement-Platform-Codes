@@ -55,7 +55,11 @@
 				}
 			],
 			"type" : "INTERNAL",
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"value" : "f:/Code/Online-Judgement-Platform-Codes/Luogu/P4715/cmake-build-debug"
+========
+			"value" : "f:/Code/Online-Judgement-Platform-Codes/Luogu/P1873/cmake-build-debug"
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +579,11 @@
 				}
 			],
 			"type" : "STATIC",
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P4715/cmake-build-debug/CMakeFiles/pkgRedirects"
+========
+			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P1873/cmake-build-debug/CMakeFiles/pkgRedirects"
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +655,11 @@
 				}
 			],
 			"type" : "INTERNAL",
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P4715"
+========
+			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P1873"
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +671,11 @@
 				}
 			],
 			"type" : "PATH",
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"value" : "C:/Program Files (x86)/P1540"
+========
+			"value" : "C:/Program Files (x86)/P1873"
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +891,11 @@
 				}
 			],
 			"type" : "STATIC",
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"value" : "P4715"
+========
+			"value" : "P1873"
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1254,7 +1274,11 @@
 			"value" : "FALSE"
 		},
 		{
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"name" : "P1540_BINARY_DIR",
+========
+			"name" : "P1873_BINARY_DIR",
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 			"properties" : 
 			[
 				{
@@ -1263,10 +1287,17 @@
 				}
 			],
 			"type" : "STATIC",
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P4715/cmake-build-debug"
 		},
 		{
 			"name" : "P1540_IS_TOP_LEVEL",
+========
+			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P1873/cmake-build-debug"
+		},
+		{
+			"name" : "P1873_IS_TOP_LEVEL",
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 			"properties" : 
 			[
 				{
@@ -1278,7 +1309,11 @@
 			"value" : "ON"
 		},
 		{
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"name" : "P1540_SOURCE_DIR",
+========
+			"name" : "P1873_SOURCE_DIR",
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 			"properties" : 
 			[
 				{
@@ -1287,17 +1322,25 @@
 				}
 			],
 			"type" : "STATIC",
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P4715"
 		},
 		{
 			"name" : "P4715_BINARY_DIR",
+========
+			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P1873"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 			"properties" : 
 			[
 				{
 					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
+					"value" : "linker supports push/pop state"
 				}
 			],
+<<<<<<<< HEAD:Luogu/P1605/cmake-build-debug/.cmake/api/v1/reply/cache-v2-4effee28c4902d13d8e7.json
 			"type" : "STATIC",
 			"value" : "F:/Code/Online-Judgement-Platform-Codes/Luogu/P4715/cmake-build-debug"
 		},
@@ -1334,6 +1377,8 @@
 					"value" : "linker supports push/pop state"
 				}
 			],
+========
+>>>>>>>> 205dbd06fda9680d62d8ad89ae6df1301af07252:Luogu/P1873/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f042dacddbfa34ad5ff4.json
 			"type" : "INTERNAL",
 			"value" : "TRUE"
 		}
