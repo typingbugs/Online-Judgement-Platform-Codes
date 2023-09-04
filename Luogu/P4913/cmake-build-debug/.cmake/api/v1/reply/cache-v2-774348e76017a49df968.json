@@ -15,7 +15,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/addr2line.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/addr2line.exe"
 		},
 		{
 			"name" : "CMAKE_AR",
@@ -31,7 +31,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/ar.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/ar.exe"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Code/OJ/Luogu/P4913 \u3010\u6df1\u57fa16.\u4f8b3\u3011\u4e8c\u53c9\u6811\u6df1\u5ea6/cmake-build-debug"
+			"value" : "e:/Code/Online-Judgement-Platform-Codes/Luogu/P1000/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "24"
+			"value" : "26"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "2"
+			"value" : "4"
 		},
 		{
 			"name" : "CMAKE_COLOR_DIAGNOSTICS",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/win/bin/cmake.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/win/bin/cpack.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/win/bin/ctest.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -155,7 +155,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/g++.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/g++.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -171,7 +171,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/gcc-ar.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_RANLIB",
@@ -187,7 +187,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/gcc-ranlib.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS",
@@ -299,7 +299,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/gcc.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/gcc.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -315,7 +315,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/gcc-ar.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/gcc-ar.exe"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_RANLIB",
@@ -331,7 +331,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/gcc-ranlib.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/gcc-ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_C_FLAGS",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/dlltool.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/dlltool.exe"
 		},
 		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/OJ/Luogu/P4913 \u3010\u6df1\u57fa16.\u4f8b3\u3011\u4e8c\u53c9\u6811\u6df1\u5ea6/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "E:/Code/Online-Judgement-Platform-Codes/Luogu/P1000/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Code/OJ/Luogu/P4913 \u3010\u6df1\u57fa16.\u4f8b3\u3011\u4e8c\u53c9\u6811\u6df1\u5ea6"
+			"value" : "E:/Code/Online-Judgement-Platform-Codes/Luogu/P1000"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/P4913_16_3"
+			"value" : "C:/Program Files (x86)/P1000"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -675,7 +675,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/ld.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/ld.exe"
 		},
 		{
 			"name" : "CMAKE_MAKE_PROGRAM",
@@ -687,7 +687,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/ninja/win/ninja.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -783,7 +783,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/nm.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/nm.exe"
 		},
 		{
 			"name" : "CMAKE_NUMBER_OF_MAKEFILES",
@@ -811,7 +811,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/objcopy.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/objcopy.exe"
 		},
 		{
 			"name" : "CMAKE_OBJDUMP",
@@ -827,7 +827,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/objdump.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/objdump.exe"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "P4913_16_3"
+			"value" : "P1000"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -891,7 +891,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/ranlib.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/ranlib.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER",
@@ -907,7 +907,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/windres.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/windres.exe"
 		},
 		{
 			"name" : "CMAKE_RC_COMPILER_WORKS",
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/readelf.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/readelf.exe"
 		},
 		{
 			"name" : "CMAKE_ROOT",
@@ -1027,7 +1027,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/cmake/win/share/cmake-3.24"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/share/cmake-3.26"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1235,7 +1235,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/strip.exe"
+			"value" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/strip.exe"
 		},
 		{
 			"name" : "CMAKE_VERBOSE_MAKEFILE",
@@ -1254,7 +1254,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "P4913_16_3_BINARY_DIR",
+			"name" : "P1000_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1263,10 +1263,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/OJ/Luogu/P4913 \u3010\u6df1\u57fa16.\u4f8b3\u3011\u4e8c\u53c9\u6811\u6df1\u5ea6/cmake-build-debug"
+			"value" : "E:/Code/Online-Judgement-Platform-Codes/Luogu/P1000/cmake-build-debug"
 		},
 		{
-			"name" : "P4913_16_3_IS_TOP_LEVEL",
+			"name" : "P1000_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1278,7 +1278,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "P4913_16_3_SOURCE_DIR",
+			"name" : "P1000_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Code/OJ/Luogu/P4913 \u3010\u6df1\u57fa16.\u4f8b3\u3011\u4e8c\u53c9\u6811\u6df1\u5ea6"
+			"value" : "E:/Code/Online-Judgement-Platform-Codes/Luogu/P1000"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

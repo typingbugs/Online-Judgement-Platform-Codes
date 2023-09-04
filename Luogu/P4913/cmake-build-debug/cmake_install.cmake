@@ -1,8 +1,8 @@
-# Install script for directory: D:/Code/OJ/Luogu/P4913 【深基16.例3】二叉树深度
+# Install script for directory: E:/Code/Online-Judgement-Platform-Codes/Luogu/P1001
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/P4913_16_3")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/P1001")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/223.8214.51/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/DevelopTools/JetBrainsToolbox/CLion/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Code/OJ/Luogu/P4913 【深基16.例3】二叉树深度/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/Code/Online-Judgement-Platform-Codes/Luogu/P1001/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
