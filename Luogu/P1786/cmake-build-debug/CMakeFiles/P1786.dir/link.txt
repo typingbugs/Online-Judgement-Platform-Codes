@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/P1786.dir/P1786.cpp.o -o P1786 
