@@ -1,1 +1,3 @@
-/usr/bin/c++ -g CMakeFiles/P1786.dir/P1786.cpp.o -o P1786 
+D:\DevelopTools\JetBrainsToolbox\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\P1786.dir/objects.a
+D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\P1786.dir/objects.a @CMakeFiles\P1786.dir\objects1.rsp
+D:\DevelopTools\JetBrainsToolbox\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\P1786.dir/objects.a -Wl,--no-whole-archive -o P1786.exe -Wl,--out-implib,libP1786.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\P1786.dir\linkLibs.rsp

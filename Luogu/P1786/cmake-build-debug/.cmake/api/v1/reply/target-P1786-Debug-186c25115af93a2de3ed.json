@@ -2,7 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "P1786"
+			"path" : "P1786.exe"
+		},
+		{
+			"path" : "P1786.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -65,12 +68,16 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "P1786",
-	"nameOnDisk" : "P1786",
+	"nameOnDisk" : "P1786.exe",
 	"paths" : 
 	{
 		"build" : ".",

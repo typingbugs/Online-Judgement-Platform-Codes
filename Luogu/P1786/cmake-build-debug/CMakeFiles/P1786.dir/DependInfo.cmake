@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/kejingfan/Documents/Online-Judgement-Platform-Codes/Luogu/P1786/P1786.cpp" "CMakeFiles/P1786.dir/P1786.cpp.o" "gcc" "CMakeFiles/P1786.dir/P1786.cpp.o.d"
+  "D:/Code/Online-Judgement-Platform-Codes/Luogu/P1786/P1786.cpp" "CMakeFiles/P1786.dir/P1786.cpp.obj" "gcc" "CMakeFiles/P1786.dir/P1786.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

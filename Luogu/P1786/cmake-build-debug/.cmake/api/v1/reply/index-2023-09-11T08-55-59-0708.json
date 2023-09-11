@@ -4,14 +4,14 @@
 		"generator" : 
 		{
 			"multiConfig" : false,
-			"name" : "Unix Makefiles"
+			"name" : "MinGW Makefiles"
 		},
 		"paths" : 
 		{
-			"cmake" : "/home/kejingfan/.cache/JetBrains/RemoteDev/dist/9c0d0e26b7a34_CLion-2023.2.1/bin/cmake/linux/x64/bin/cmake",
-			"cpack" : "/home/kejingfan/.cache/JetBrains/RemoteDev/dist/9c0d0e26b7a34_CLion-2023.2.1/bin/cmake/linux/x64/bin/cpack",
-			"ctest" : "/home/kejingfan/.cache/JetBrains/RemoteDev/dist/9c0d0e26b7a34_CLion-2023.2.1/bin/cmake/linux/x64/bin/ctest",
-			"root" : "/home/kejingfan/.cache/JetBrains/RemoteDev/dist/9c0d0e26b7a34_CLion-2023.2.1/bin/cmake/linux/x64/share/cmake-3.26"
+			"cmake" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/bin/cmake.exe",
+			"cpack" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/bin/cpack.exe",
+			"ctest" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/bin/ctest.exe",
+			"root" : "D:/DevelopTools/JetBrainsToolbox/CLion/bin/cmake/win/x64/share/cmake-3.26"
 		},
 		"version" : 
 		{
@@ -26,7 +26,7 @@
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-edc993fe09539748474e.json",
+			"jsonFile" : "codemodel-v2-1f80ebfb3989e2c191ee.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -35,7 +35,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-6b3d562a6e9ab8d77994.json",
+			"jsonFile" : "cache-v2-528b9fe732d6971f1bc5.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -44,7 +44,7 @@
 			}
 		},
 		{
-			"jsonFile" : "cmakeFiles-v1-37a41b6524483c3c07e0.json",
+			"jsonFile" : "cmakeFiles-v1-16cb6bb64f15bf4f8ba8.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -53,7 +53,7 @@
 			}
 		},
 		{
-			"jsonFile" : "toolchains-v1-99265b04de7ada3aac9e.json",
+			"jsonFile" : "toolchains-v1-58b64a1e2ac83bab3fa5.json",
 			"kind" : "toolchains",
 			"version" : 
 			{
@@ -66,7 +66,7 @@
 	{
 		"cache-v2" : 
 		{
-			"jsonFile" : "cache-v2-6b3d562a6e9ab8d77994.json",
+			"jsonFile" : "cache-v2-528b9fe732d6971f1bc5.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -76,7 +76,7 @@
 		},
 		"cmakeFiles-v1" : 
 		{
-			"jsonFile" : "cmakeFiles-v1-37a41b6524483c3c07e0.json",
+			"jsonFile" : "cmakeFiles-v1-16cb6bb64f15bf4f8ba8.json",
 			"kind" : "cmakeFiles",
 			"version" : 
 			{
@@ -86,7 +86,7 @@
 		},
 		"codemodel-v2" : 
 		{
-			"jsonFile" : "codemodel-v2-edc993fe09539748474e.json",
+			"jsonFile" : "codemodel-v2-1f80ebfb3989e2c191ee.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
@@ -96,7 +96,7 @@
 		},
 		"toolchains-v1" : 
 		{
-			"jsonFile" : "toolchains-v1-99265b04de7ada3aac9e.json",
+			"jsonFile" : "toolchains-v1-58b64a1e2ac83bab3fa5.json",
 			"kind" : "toolchains",
 			"version" : 
 			{
