@@ -8,14 +8,15 @@ typedef struct {
     string name;
     ll contribution;
     int level;
+    int order = 0;
 } Person;
 
 bool cmp_level(Person a, Person b) {
-    return a.level > b.level;
+    return a.level == b.level ? a.order < b.order : a.level > b.level;
 }
 
 bool cmp_contribution(Person a, Person b) {
-    return a.contribution > b.contribution;
+    return a.contribution == b.contribution ? a.order < b.order : a.contribution > b.contribution;
 }
 
 string int2state[7] = {"BangZhu", "FuBangZhu", "HuFa", "ZhangLao",
@@ -40,6 +41,7 @@ int main() {
     for (int i = 3; i < n; i++) {
         Person person;
         cin >> person.name >> tmp >> person.contribution >> person.level;
+        person.order = i;
         list.push_back(person);
     }
     if (!list.empty()) stable_sort(list.begin(), list.end(), cmp_contribution);
@@ -47,10 +49,10 @@ int main() {
     int start = 0;
     for (int i: num) {
         if (start + i < list.size()) {
-            stable_sort(list.begin() + start, list.begin() + start + i, cmp_level);
+            sort(list.begin() + start, list.begin() + start + i, cmp_level);
             start += i;
         } else {
-            stable_sort(list.begin() + start, list.end(), cmp_level);
+            sort(list.begin() + start, list.end(), cmp_level);
             break;
         }
     }
