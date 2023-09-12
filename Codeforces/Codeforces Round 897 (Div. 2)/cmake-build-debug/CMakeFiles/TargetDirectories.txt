@@ -1,4 +1,4 @@
-E:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/A.dir
-E:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/B.dir
-E:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/A.dir
+D:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/B.dir
+D:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/Online-Judgement-Platform-Codes/Codeforces/Codeforces Round 897 (Div. 2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

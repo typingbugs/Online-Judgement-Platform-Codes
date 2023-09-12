@@ -8,9 +8,7 @@ void solve() {
     cin >> n >> s;
     bool odd_n = (n % 2 == 1);
     int num_unpair = 0;
-    for (int i = 0; i < n / 2; i++) {
-        if (s[i] != s[n - 1 - i]) num_unpair++;
-    }
+    for (int i = 0; i < n / 2; i++) if (s[i] != s[n - 1 - i]) num_unpair++;
     vector<int> ans;
     for (int i = 0; i < num_unpair; i++) ans.push_back(0);
     int append[2] = {1};

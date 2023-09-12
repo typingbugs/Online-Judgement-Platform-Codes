@@ -4,37 +4,38 @@ using namespace std;
 
 using ll = long long;
 
+typedef struct {
+    ll input;
+    int order;
+    int output;
+} Num;
+
+bool cmp1(Num a, Num b) {
+    return a.input > b.input;
+};
+
+bool cmp2(Num a, Num b) {
+    return a.order < b.order;
+}
+
 void solve() {
     int n;
     cin >> n;
-    ll last;
-    cin >> last;
-    if (n == 1) {
-        cout << 1 << '\n';
-        return;
+    vector<Num> a(n);
+    for (int i = 0; i < n; i++) {
+        cin >> a[i].input;
+        a[i].order = i + 1;
     }
-    vector<int> ans;
-    ans.push_back(0);
-    int zheng = 1, fu = -1;
-    for (int i = 0; i < n - 1; i++) {
-        ll now;
-        cin >> now;
-        ll dif = now - last;
-        if (dif > 0) {
-            ans.push_back(fu);
-            fu--;
-        } else {
-            ans.push_back(zheng);
-            zheng++;
-        }
-    }
-    for (int i: ans) cout << i - fu << ' ';
+    sort(a.begin(), a.end(), cmp1);
+    for (int i = 0; i < n; i++) a[i].output = i + 1;
+    sort(a.begin(), a.end(), cmp2);
+    for (auto num: a) cout << num.output << ' ';
     cout << '\n';
 }
 
 int main() {
     int t;
     cin >> t;
-    while (t--)solve();
+    while (t--) solve();
     return 0;
 }
