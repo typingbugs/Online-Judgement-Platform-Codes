@@ -9,6 +9,7 @@ vector<int> mod_sum;
 void solve() {
     int l, r;
     cin >> l >> r;
+
 }
 
 int main() {
