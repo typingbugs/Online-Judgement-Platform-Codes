@@ -2,18 +2,18 @@
 
 using namespace std;
 
-#define ll unsigned long long
-
-ll calculate(ll a, ll b, bool odd) {
-    ll w = 1, ans = 0;
-    for (int i = 0; i < sizeof(ll); i++) {
-        ll bit_a = (a >> i) & 1;
-        ll bit_b = (b >> i) & 1;
+int calculate(int a, int b, bool odd) {
+    int w = 1, ans = 0;
+    for (int i = 0; i < 31; i++) {
+        int bit_a = a % 2;
+        int bit_b = b % 2;
         if (bit_b == 1) {
             if (odd) ans += w;
         }
         else ans += bit_a * w;
         w *= 2;
+        a /= 2;
+        b /= 2;
     }
     return ans;
 }
@@ -21,8 +21,8 @@ ll calculate(ll a, ll b, bool odd) {
 void solve() {
     int n, m;
     cin >> n >> m;
-    ll a = 0, b = 0;
-    ll input;
+    int a = 0, b = 0;
+    int input;
     for (int i = 0; i < n; i++) {
         cin >> input;
         a ^= input;
@@ -31,7 +31,7 @@ void solve() {
         cin >> input;
         b |= input;
     }
-    ll tmp = calculate(a, b, (n % 2 != 0));
+    int tmp = calculate(a, b, (n % 2 != 0));
     cout << min(a, tmp) << ' ' << max(a, tmp) << '\n';
 }
 
