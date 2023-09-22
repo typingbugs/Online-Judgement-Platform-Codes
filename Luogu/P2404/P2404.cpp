@@ -7,11 +7,8 @@ int n;
 
 void dfs(int left) {
     if (left == 0) {
-        vector<int> tmp;
-        for (auto i : ans) tmp.push_back(i);
-        sort(tmp.begin(), tmp.end());
-        for (int i = 0; i < tmp.size() - 1; i++) cout << tmp[i] << '+';
-        cout << tmp[tmp.size() - 1] << '\n';
+        for (int i = 0; i < ans.size() - 1; i++) cout << ans[i] << '+';
+        cout << ans[ans.size() - 1] << '\n';
         return;
     }
     for (int i = ans[ans.size() - 1]; i <= left; i++) {
