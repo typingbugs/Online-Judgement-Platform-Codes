@@ -1,19 +1,20 @@
 import java.util.Scanner;
 
 public class Main {
-    int[][] matrix;
-    boolean[][] vis;
-    static Scanner scanner;
-
     public static void main(String[] args) {
-        scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int t = 1;
         while (t-- > 0)
-            solve();
+            new Solve(scanner);
         scanner.close();
     }
+}
 
-    void solve() {
+class Solve {
+    int[][] matrix;
+    boolean[][] vis;
+
+    public Solve(Scanner scanner) {
         int n = scanner.nextInt();
         matrix = new int[n + 1][n + 1];
         vis = new boolean[n + 1][n + 1];
@@ -23,5 +24,9 @@ public class Main {
                 matrix[i][j] = scanner.nextInt();
             }
         }
+    }
+
+    int dfs(int x, int y) {
+        return 0;
     }
 }
