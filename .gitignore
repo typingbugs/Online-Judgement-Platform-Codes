@@ -12,4 +12,4 @@
 !*.java
 !*.md
 CMakeCCompilerId.c
-CMakeCXXCompilerId.c
+CMakeCXXCompilerId.cpp
