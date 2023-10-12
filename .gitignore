@@ -11,3 +11,5 @@
 !*.py
 !*.java
 !*.md
+CMakeCCompilerId.c
+CMakeCXXCompilerId.c
