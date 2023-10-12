@@ -14,4 +14,4 @@
 
 CMakeCCompilerId.c
 CMakeCXXCompilerId.cpp
-.idea/.gitignore
+.idea/
