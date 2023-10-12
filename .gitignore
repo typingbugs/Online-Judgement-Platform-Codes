@@ -1,9 +1,9 @@
 # 忽略所有文件
 *
 # 不忽略目录
-!*/
+# !*/
 # 忽略.vscode/ 
-.vscode/
+# .vscode/
 # 不忽略文件.gitignore和*.cpp / *.c / *.py / *.java / *.md
 !.gitignore
 !*.cpp
@@ -11,5 +11,7 @@
 !*.py
 !*.java
 !*.md
+
 CMakeCCompilerId.c
 CMakeCXXCompilerId.cpp
+.idea/.gitignore
