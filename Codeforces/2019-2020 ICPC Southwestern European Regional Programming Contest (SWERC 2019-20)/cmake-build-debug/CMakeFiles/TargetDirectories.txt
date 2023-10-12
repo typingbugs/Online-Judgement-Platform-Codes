@@ -1,7 +1,0 @@
-F:/Code/OJ/Codeforces/2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)/cmake-build-debug/CMakeFiles/B.dir
-F:/Code/OJ/Codeforces/2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)/cmake-build-debug/CMakeFiles/C.dir
-F:/Code/OJ/Codeforces/2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)/cmake-build-debug/CMakeFiles/F.dir
-F:/Code/OJ/Codeforces/2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)/cmake-build-debug/CMakeFiles/I.dir
-F:/Code/OJ/Codeforces/2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)/cmake-build-debug/CMakeFiles/K.dir
-F:/Code/OJ/Codeforces/2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/OJ/Codeforces/2019-2020 ICPC Southwestern European Regional Programming Contest (SWERC 2019-20)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

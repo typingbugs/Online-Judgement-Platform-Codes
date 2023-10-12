@@ -1,3 +1,0 @@
-D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\C.dir/objects.a
-D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\ar.exe qc CMakeFiles\C.dir/objects.a @CMakeFiles\C.dir\objects1.rsp
-D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\C.dir/objects.a -Wl,--no-whole-archive -o C.exe -Wl,--out-implib,libC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\C.dir\linkLibs.rsp

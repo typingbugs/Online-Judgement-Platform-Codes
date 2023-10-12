@@ -1,4 +1,0 @@
-F:/Code/Online Judgement Platform Codes/School OJ/第十届新生程序设计竞赛及蓝桥杯选拔赛网络预选赛/cmake-build-debug/CMakeFiles/A.dir
-F:/Code/Online Judgement Platform Codes/School OJ/第十届新生程序设计竞赛及蓝桥杯选拔赛网络预选赛/cmake-build-debug/CMakeFiles/B.dir
-F:/Code/Online Judgement Platform Codes/School OJ/第十届新生程序设计竞赛及蓝桥杯选拔赛网络预选赛/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/Online Judgement Platform Codes/School OJ/第十届新生程序设计竞赛及蓝桥杯选拔赛网络预选赛/cmake-build-debug/CMakeFiles/rebuild_cache.dir

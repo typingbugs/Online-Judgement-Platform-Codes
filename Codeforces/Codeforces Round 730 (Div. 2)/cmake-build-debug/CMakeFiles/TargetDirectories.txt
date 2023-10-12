@@ -1,4 +1,0 @@
-F:/Code/OJ/Codeforces/Codeforces Round 730 (Div. 2)/cmake-build-debug/CMakeFiles/C.dir
-F:/Code/OJ/Codeforces/Codeforces Round 730 (Div. 2)/cmake-build-debug/CMakeFiles/C2.dir
-F:/Code/OJ/Codeforces/Codeforces Round 730 (Div. 2)/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/OJ/Codeforces/Codeforces Round 730 (Div. 2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

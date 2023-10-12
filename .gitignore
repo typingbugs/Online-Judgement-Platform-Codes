@@ -1,0 +1,13 @@
+# 忽略所有文件
+*
+# 不忽略目录
+!*/
+# 忽略.vscode/ 
+.vscode/
+# 不忽略文件.gitignore和*.cpp / *.c / *.py / *.java / *.md
+!.gitignore
+!*.cpp
+!*.c
+!*.py
+!*.java
+!*.md

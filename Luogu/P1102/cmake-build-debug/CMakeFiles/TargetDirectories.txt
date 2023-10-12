@@ -1,3 +1,0 @@
-E:/Code/Online-Judgement-Platform-Codes/Luogu/P1102/cmake-build-debug/CMakeFiles/P1102.dir
-E:/Code/Online-Judgement-Platform-Codes/Luogu/P1102/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Code/Online-Judgement-Platform-Codes/Luogu/P1102/cmake-build-debug/CMakeFiles/rebuild_cache.dir

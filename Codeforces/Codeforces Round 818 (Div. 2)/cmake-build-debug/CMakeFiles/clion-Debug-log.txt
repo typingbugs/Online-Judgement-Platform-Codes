@@ -1,4 +1,0 @@
-D:\DevelopTools\JetBrainsToolbox\apps\CLion\ch-0\232.9559.58\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/DevelopTools/JetBrainsToolbox/apps/CLion/ch-0/232.9559.58/bin/ninja/win/x64/ninja.exe -G Ninja -S "F:\Code\OJ\Codeforces\Codeforces Round 818 (Div. 2)" -B "F:\Code\OJ\Codeforces\Codeforces Round 818 (Div. 2)\cmake-build-debug"
--- Configuring done (0.1s)
--- Generating done (0.0s)
--- Build files have been written to: F:/Code/OJ/Codeforces/Codeforces Round 818 (Div. 2)/cmake-build-debug

@@ -1,4 +1,0 @@
-F:/Code/Online Judgement Platform Codes/School OJ/北京交通大学 第九届新生程序设计竞赛/cmake-build-debug/CMakeFiles/C.dir
-F:/Code/Online Judgement Platform Codes/School OJ/北京交通大学 第九届新生程序设计竞赛/cmake-build-debug/CMakeFiles/E.dir
-F:/Code/Online Judgement Platform Codes/School OJ/北京交通大学 第九届新生程序设计竞赛/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/Online Judgement Platform Codes/School OJ/北京交通大学 第九届新生程序设计竞赛/cmake-build-debug/CMakeFiles/rebuild_cache.dir

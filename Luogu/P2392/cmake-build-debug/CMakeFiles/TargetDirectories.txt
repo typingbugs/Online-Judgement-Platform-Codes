@@ -1,3 +1,0 @@
-F:/Code/Online-Judgement-Platform-Codes/Luogu/P2392/cmake-build-debug/CMakeFiles/P2392.dir
-F:/Code/Online-Judgement-Platform-Codes/Luogu/P2392/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/Online-Judgement-Platform-Codes/Luogu/P2392/cmake-build-debug/CMakeFiles/rebuild_cache.dir

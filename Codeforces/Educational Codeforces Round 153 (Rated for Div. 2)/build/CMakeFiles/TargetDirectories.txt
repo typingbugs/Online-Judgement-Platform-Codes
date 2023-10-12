@@ -1,3 +1,0 @@
-G:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/build/CMakeFiles/C.dir
-G:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/build/CMakeFiles/ALL_BUILD.dir
-G:/Code/OJ/Codeforces/Educational Codeforces Round 153 (Rated for Div. 2)/build/CMakeFiles/ZERO_CHECK.dir

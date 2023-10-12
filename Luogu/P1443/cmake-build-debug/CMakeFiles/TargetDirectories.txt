@@ -1,3 +1,0 @@
-F:/Code/Online-Judgement-Platform-Codes/Luogu/P1443/cmake-build-debug/CMakeFiles/P1443.dir
-F:/Code/Online-Judgement-Platform-Codes/Luogu/P1443/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/Online-Judgement-Platform-Codes/Luogu/P1443/cmake-build-debug/CMakeFiles/rebuild_cache.dir

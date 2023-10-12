@@ -1,3 +1,0 @@
-F:/Code/OJ/Codeforces/Educational Codeforces Round 124 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/D.dir
-F:/Code/OJ/Codeforces/Educational Codeforces Round 124 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/OJ/Codeforces/Educational Codeforces Round 124 (Rated for Div. 2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

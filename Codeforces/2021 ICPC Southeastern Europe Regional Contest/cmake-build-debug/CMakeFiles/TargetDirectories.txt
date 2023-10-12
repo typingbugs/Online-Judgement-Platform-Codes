@@ -1,5 +1,0 @@
-F:/Code/OJ/Codeforces/2021 ICPC Southeastern Europe Regional Contest/cmake-build-debug/CMakeFiles/A.dir
-F:/Code/OJ/Codeforces/2021 ICPC Southeastern Europe Regional Contest/cmake-build-debug/CMakeFiles/J.dir
-F:/Code/OJ/Codeforces/2021 ICPC Southeastern Europe Regional Contest/cmake-build-debug/CMakeFiles/N.dir
-F:/Code/OJ/Codeforces/2021 ICPC Southeastern Europe Regional Contest/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/OJ/Codeforces/2021 ICPC Southeastern Europe Regional Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

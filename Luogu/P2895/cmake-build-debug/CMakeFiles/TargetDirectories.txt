@@ -1,3 +1,0 @@
-D:/Code/Online-Judgement-Platform-Codes/Luogu/P2895/cmake-build-debug/CMakeFiles/P2895.dir
-D:/Code/Online-Judgement-Platform-Codes/Luogu/P2895/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Code/Online-Judgement-Platform-Codes/Luogu/P2895/cmake-build-debug/CMakeFiles/rebuild_cache.dir

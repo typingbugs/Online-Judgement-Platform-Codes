@@ -1,5 +1,0 @@
-F:/Code/OJ/Codeforces/Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined)/cmake-build-debug/CMakeFiles/A.dir
-F:/Code/OJ/Codeforces/Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined)/cmake-build-debug/CMakeFiles/B.dir
-F:/Code/OJ/Codeforces/Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined)/cmake-build-debug/CMakeFiles/C.dir
-F:/Code/OJ/Codeforces/Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined)/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/Code/OJ/Codeforces/Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
